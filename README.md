@@ -1,0 +1,4 @@
+# android click effect example
+
+
+
